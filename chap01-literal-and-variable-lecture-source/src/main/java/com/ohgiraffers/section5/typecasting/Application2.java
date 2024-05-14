@@ -52,7 +52,19 @@ public class Application2 {
         System.out.println("bnum = " + bnum2);
 
         short snum2 = (short) ch;
-        System.out.println("snum = " + snum2);
+
+
+        // 정수를 char 자료형에 강제형변환해서 대입하기
+        int num1 = 97;
+        int num2 = -97; // dmatneh gudqusghksdl rksmdgkek
+
+        char ch2 = (char) num1;
+        System.out.println("ch2 = " + ch2);
+        char ch3 = (char) num2;
+        System.out.println("ch3 = " + ch3);
+
+        /*강제 형변환을 해도 논리형은 규칙에서 제외된다 */
+        boolean isTrue = true;
 
 
     }
