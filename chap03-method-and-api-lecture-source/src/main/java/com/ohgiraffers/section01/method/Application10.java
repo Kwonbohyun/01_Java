@@ -32,14 +32,14 @@ public class Application10 {
 
     }
 
-    // 두 수를 곱한 결과를 반환하는 메서드
+    // 두 수를 곱한 결과를 반환하는 메서드 // 곱하기
     public int multipleTwoNumber(int num1, int num2) {
 
         return num1 * num2;
 
     }
 
-    // 두 수를 나눈 결과를 반환하는 메서드
+    // 두 수를 나눈 결과를 반환하는 메서드 //나누기
     public int divideTwoNumber(int num1, int num2) {
 
         return num1 / num2;
@@ -48,11 +48,7 @@ public class Application10 {
 
 
 
-        // 곱하기
 
-        // 나누기
-
-        // 나머지
     }
 }
 
