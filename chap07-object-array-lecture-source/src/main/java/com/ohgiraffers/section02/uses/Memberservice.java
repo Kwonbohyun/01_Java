@@ -1,6 +1,6 @@
 package com.ohgiraffers.section02.uses;
 
-public class MemberService {
+public class Memberservice {
     // 연결만 해주는 곳이고, 실제구현은 다른곳에서 한다.
 
 
