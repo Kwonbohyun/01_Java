@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1fc8fd6-c09d-4746-b3f8-6d39527f082b" name="Changes" comment="Commit">
-      <change beforePath="$PROJECT_DIR$/chap07-object-array-lecture-source/src/main/java/com/ohgiraffers/section02/uses/Memberservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/chap07-object-array-lecture-source/src/main/java/com/ohgiraffers/section02/uses/Memberservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/use/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap13-exception-lecture-source/src/main/java/com/ohgiraffers/section03/use/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap13-exception-lecture-source/src/main/java/com/ohgiraffers/setion04/overriding/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap13-exception-lecture-source/src/main/java/com/ohgiraffers/setion04/overriding/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap13-exception-lecture-source/test.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap14-io-lecture-source/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chap13-exception-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chap13-exception-lecture-source/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +52,20 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/80417/Desktop/bohuyn/01_Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/80417/Desktop/bohuyn/01_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,6 +91,7 @@
       <workItem from="1716856828056" duration="50000" />
       <workItem from="1716856888790" duration="8000" />
       <workItem from="1716856918088" duration="180000" />
+      <workItem from="1717378719057" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
